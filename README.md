@@ -1,5 +1,7 @@
 # Cone Deployment Robot 
 
+## About this Project
+
 This robot was built for the Engineering Design course AER201. The goal is to make a autonomous robot that can depoly traffic cones where there are holes and cracks. 
 
 The robot is built with Arduino Unos and Nanos, DC motors, and servo motors. 
@@ -8,7 +10,7 @@ Since that this is an engineering design course, we do have journals and other p
 
 The software is written for Arduino (C++) and the UI uses C. The arm uses servo motors, and the drivers use DC motors.
 
-### This repository includes:
+## This repository includes:
 
 * Source Code
   * The main code : *main_execute.ino*
